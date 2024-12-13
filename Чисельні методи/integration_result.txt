@@ -1,0 +1,30 @@
+Function: 1/x
+Method: Gaussian Quadrature
+Integration bounds: [1.0, 2.0]
+Result: 0.693146417489541
+Epsilon: 1e-05
+========================
+Function: 1/x
+Method: Rectangle Rule
+Integration bounds: [1.0, 2.0]
+Result: 0.693147180556815
+Epsilon: 1e-05
+========================
+Function: 1/x
+Method: Trapezoid Rule
+Integration bounds: [1.0, 2.0]
+Result: 0.693147180566195
+Epsilon: 1e-05
+========================
+Function: 1/x
+Method: Simpson Rule
+Integration bounds: [1.0, 2.0]
+Result: 0.693147180559945
+Epsilon: 1e-05
+========================
+Function: 1/x
+Method: Gaussian Quadrature
+Integration bounds: [1.0, 2.0]
+Result: 0.693146417489541
+Epsilon: 1e-05
+========================

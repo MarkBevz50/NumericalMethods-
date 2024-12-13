@@ -1,0 +1,9 @@
+
+
+Errors for Newton's method with Chebyshev nodes at midpoints:
+mid = -9.3301, error = 0.2568661321
+mid = -6.8301, error = 0.4223005204
+mid = -2.5000, error = 1.7970468572
+mid = 2.5000, error = 1.7970468572
+mid = 6.8301, error = 0.4223005204
+mid = 9.3301, error = 0.2568661321

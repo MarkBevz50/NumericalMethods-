@@ -1,0 +1,18 @@
+---
+Function: -sqrt(1 - 4*sin(x))
+Epsilon (tolerance): 0.001
+Solution: -2.107
+Number of iterations: 7
+Interval: [-2.3, -1.0]
+---
+Function: -sqrt(1 - 4*sin(x))
+Epsilon (tolerance): 0.001
+Solution: -2.107
+Number of iterations: 7
+Interval: [-2.3, -1.0]
+---
+Function: -sqrt(1 - 4*sin(x))
+Epsilon (tolerance): 0.0001
+Solution: -2.1069
+Number of iterations: 10
+Interval: [-2.3, -1.0]

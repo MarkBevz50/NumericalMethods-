@@ -1,0 +1,9 @@
+
+
+Errors for Lagrange's method with equally spaced nodes at midpoints:
+mid = -8.3333, error = 0.4481965967
+mid = -5.0000, error = 0.9909521485
+mid = -1.6667, error = 1.1729770644
+mid = 1.6667, error = 1.1729770644
+mid = 5.0000, error = 0.9909521485
+mid = 8.3333, error = 0.4481965967
